@@ -58,6 +58,7 @@
         "@loopback/service-proxy": "^4.1.1",
         "docdash": "^1.2.0",
         "jsdoc": "^3.6.10",
+        "loopback-connector-mysql": "^5.4.4",
         "tslib": "^2.0.0"
     },
     "devDependencies": {
